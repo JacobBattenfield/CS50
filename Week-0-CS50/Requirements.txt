@@ -1,0 +1,6 @@
+My assignment is to implement in Scratch, any project of my choice:
+    > Must use at least two sprites, neither a cat
+    > Must have at least three scripts total
+    > Must use at least one conditional, one loop and one variable
+    > Must use one custom block that you have made yourself that takes at least one input
+    > Must be at least a little complex and not shortjkkjl
