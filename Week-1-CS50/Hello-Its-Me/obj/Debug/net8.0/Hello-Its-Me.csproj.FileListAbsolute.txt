@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\bin\Debug\net8.0\Hello-Its-Me.exe
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\bin\Debug\net8.0\Hello-Its-Me.deps.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\bin\Debug\net8.0\Hello-Its-Me.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\bin\Debug\net8.0\Hello-Its-Me.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\bin\Debug\net8.0\Hello-Its-Me.pdb
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\obj\Debug\net8.0\Hello-Its-Me.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\obj\Debug\net8.0\Hello-Its-Me.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\obj\Debug\net8.0\Hello-Its-Me.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\obj\Debug\net8.0\Hello-Its-Me.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\obj\Debug\net8.0\Hello-Its-Me.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\obj\Debug\net8.0\Hello-Its-Me.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\obj\Debug\net8.0\refint\Hello-Its-Me.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\obj\Debug\net8.0\Hello-Its-Me.pdb
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\obj\Debug\net8.0\Hello-Its-Me.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Hello-Its-Me\obj\Debug\net8.0\ref\Hello-Its-Me.dll

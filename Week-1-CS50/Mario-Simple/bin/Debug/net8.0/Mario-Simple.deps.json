@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mario-Simple/1.0.0": {
+        "runtime": {
+          "Mario-Simple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mario-Simple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,6 +1,13 @@
 My assignment is to implement in Scratch, any project of my choice:
-    > Must use at least two sprites, neither a cat
-    > Must have at least three scripts total
-    > Must use at least one conditional, one loop and one variable
-    > Must use one custom block that you have made yourself that takes at least one input
-    > Must be at least a little complex and not shortjkkjl
+    > Must use at least two sprites, neither a cat  **COMPLETED**
+    > Must have at least three scripts total **COMPLETED**
+    > Must use at least one conditional, one loop and one variable **COMPLETED**
+    > Must use one custom block that you have made yourself that takes at least one input **COMPLETED**
+    > Must be at least a little complex and not short **COMPLETED**
+
+
+    ProjectIdea: Find food in the savana, they will be random size and appear in random locations every 3 seconds. This will utilize 2 sprites 3 scripts, 1 con 1 loop 1var, a custom block and be slightly complex with a scoring system!
+
+    Project Complete
+
+    https://scratch.mit.edu/projects/1090505610/#

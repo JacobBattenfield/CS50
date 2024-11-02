@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\bin\Debug\net8.0\Comfortable-Mario.exe
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\bin\Debug\net8.0\Comfortable-Mario.deps.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\bin\Debug\net8.0\Comfortable-Mario.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\bin\Debug\net8.0\Comfortable-Mario.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\bin\Debug\net8.0\Comfortable-Mario.pdb
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\obj\Debug\net8.0\Comfortable-Mario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\obj\Debug\net8.0\Comfortable-Mario.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\obj\Debug\net8.0\Comfortable-Mario.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\obj\Debug\net8.0\Comfortable-Mario.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\obj\Debug\net8.0\Comfortable-Mario.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\obj\Debug\net8.0\Comfortable-Mario.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\obj\Debug\net8.0\refint\Comfortable-Mario.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\obj\Debug\net8.0\Comfortable-Mario.pdb
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\obj\Debug\net8.0\Comfortable-Mario.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Comfortable-Mario\obj\Debug\net8.0\ref\Comfortable-Mario.dll

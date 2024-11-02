@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\bin\Debug\net8.0\Mario-Simple.exe
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\bin\Debug\net8.0\Mario-Simple.deps.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\bin\Debug\net8.0\Mario-Simple.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\bin\Debug\net8.0\Mario-Simple.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\bin\Debug\net8.0\Mario-Simple.pdb
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\obj\Debug\net8.0\Mario-Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\obj\Debug\net8.0\Mario-Simple.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\obj\Debug\net8.0\Mario-Simple.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\obj\Debug\net8.0\Mario-Simple.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\obj\Debug\net8.0\Mario-Simple.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\obj\Debug\net8.0\Mario-Simple.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\obj\Debug\net8.0\refint\Mario-Simple.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\obj\Debug\net8.0\Mario-Simple.pdb
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\obj\Debug\net8.0\Mario-Simple.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Simple\obj\Debug\net8.0\ref\Mario-Simple.dll
