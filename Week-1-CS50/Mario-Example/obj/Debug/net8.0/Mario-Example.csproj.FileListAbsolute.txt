@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\bin\Debug\net8.0\Mario-Example.exe
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\bin\Debug\net8.0\Mario-Example.deps.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\bin\Debug\net8.0\Mario-Example.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\bin\Debug\net8.0\Mario-Example.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\bin\Debug\net8.0\Mario-Example.pdb
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\obj\Debug\net8.0\Mario-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\obj\Debug\net8.0\Mario-Example.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\obj\Debug\net8.0\Mario-Example.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\obj\Debug\net8.0\Mario-Example.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\obj\Debug\net8.0\Mario-Example.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\obj\Debug\net8.0\Mario-Example.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\obj\Debug\net8.0\refint\Mario-Example.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\obj\Debug\net8.0\Mario-Example.pdb
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\obj\Debug\net8.0\Mario-Example.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Mario-Example\obj\Debug\net8.0\ref\Mario-Example.dll

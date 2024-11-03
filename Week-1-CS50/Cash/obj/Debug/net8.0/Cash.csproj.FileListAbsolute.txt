@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\bin\Debug\net8.0\Cash.exe
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\bin\Debug\net8.0\Cash.deps.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\bin\Debug\net8.0\Cash.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\bin\Debug\net8.0\Cash.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\bin\Debug\net8.0\Cash.pdb
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\obj\Debug\net8.0\Cash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\obj\Debug\net8.0\Cash.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\obj\Debug\net8.0\Cash.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\obj\Debug\net8.0\Cash.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\obj\Debug\net8.0\Cash.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\obj\Debug\net8.0\Cash.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\obj\Debug\net8.0\refint\Cash.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\obj\Debug\net8.0\Cash.pdb
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\obj\Debug\net8.0\Cash.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Cash\obj\Debug\net8.0\ref\Cash.dll

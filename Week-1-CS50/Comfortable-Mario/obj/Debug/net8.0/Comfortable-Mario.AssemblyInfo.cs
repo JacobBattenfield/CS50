@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Comfortable-Mario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a28977cc44ac8f3b4f39523d7012d154a80e6346")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dee3c1f20688ac15c6c0495938171264092298d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Comfortable-Mario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Comfortable-Mario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
