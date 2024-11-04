@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\bin\Debug\net8.0\Credit.exe
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\bin\Debug\net8.0\Credit.deps.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\bin\Debug\net8.0\Credit.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\bin\Debug\net8.0\Credit.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\bin\Debug\net8.0\Credit.pdb
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\obj\Debug\net8.0\Credit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\obj\Debug\net8.0\Credit.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\obj\Debug\net8.0\Credit.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\obj\Debug\net8.0\Credit.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\obj\Debug\net8.0\Credit.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\obj\Debug\net8.0\Credit.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\obj\Debug\net8.0\refint\Credit.dll
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\obj\Debug\net8.0\Credit.pdb
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\obj\Debug\net8.0\Credit.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Week-1-CS50\Credit\obj\Debug\net8.0\ref\Credit.dll
