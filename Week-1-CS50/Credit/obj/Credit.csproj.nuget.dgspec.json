@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob\\Desktop\\CS50\\Week-1-CS50\\Credit\\Credit.csproj": {}
+    "c:\\Users\\jacob\\Desktop\\CS50\\Week-1-CS50\\Credit\\Credit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob\\Desktop\\CS50\\Week-1-CS50\\Credit\\Credit.csproj": {
+    "c:\\Users\\jacob\\Desktop\\CS50\\Week-1-CS50\\Credit\\Credit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\Desktop\\CS50\\Week-1-CS50\\Credit\\Credit.csproj",
+        "projectUniqueName": "c:\\Users\\jacob\\Desktop\\CS50\\Week-1-CS50\\Credit\\Credit.csproj",
         "projectName": "Credit",
-        "projectPath": "C:\\Users\\jacob\\Desktop\\CS50\\Week-1-CS50\\Credit\\Credit.csproj",
+        "projectPath": "c:\\Users\\jacob\\Desktop\\CS50\\Week-1-CS50\\Credit\\Credit.csproj",
         "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\Desktop\\CS50\\Week-1-CS50\\Credit\\obj\\",
+        "outputPath": "c:\\Users\\jacob\\Desktop\\CS50\\Week-1-CS50\\Credit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",

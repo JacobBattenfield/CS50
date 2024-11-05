@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\bin\Debug\net8.0\Scores.exe
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\bin\Debug\net8.0\Scores.deps.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\bin\Debug\net8.0\Scores.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\bin\Debug\net8.0\Scores.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\bin\Debug\net8.0\Scores.pdb
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\obj\Debug\net8.0\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\obj\Debug\net8.0\Scores.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\obj\Debug\net8.0\Scores.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\obj\Debug\net8.0\Scores.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\obj\Debug\net8.0\Scores.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\obj\Debug\net8.0\Scores.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\obj\Debug\net8.0\refint\Scores.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\obj\Debug\net8.0\Scores.pdb
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\obj\Debug\net8.0\Scores.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Scores\obj\Debug\net8.0\ref\Scores.dll

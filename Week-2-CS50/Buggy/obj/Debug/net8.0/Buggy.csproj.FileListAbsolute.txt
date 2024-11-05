@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\bin\Debug\net8.0\Buggy.exe
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\bin\Debug\net8.0\Buggy.deps.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\bin\Debug\net8.0\Buggy.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\bin\Debug\net8.0\Buggy.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\bin\Debug\net8.0\Buggy.pdb
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\obj\Debug\net8.0\Buggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\obj\Debug\net8.0\Buggy.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\obj\Debug\net8.0\Buggy.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\obj\Debug\net8.0\Buggy.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\obj\Debug\net8.0\Buggy.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\obj\Debug\net8.0\Buggy.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\obj\Debug\net8.0\refint\Buggy.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\obj\Debug\net8.0\Buggy.pdb
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\obj\Debug\net8.0\Buggy.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Buggy\obj\Debug\net8.0\ref\Buggy.dll
