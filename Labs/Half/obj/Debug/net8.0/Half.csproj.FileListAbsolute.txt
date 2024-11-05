@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Labs\Half\bin\Debug\net8.0\Half.exe
+C:\Users\jacob\Desktop\CS50\Labs\Half\bin\Debug\net8.0\Half.deps.json
+C:\Users\jacob\Desktop\CS50\Labs\Half\bin\Debug\net8.0\Half.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Labs\Half\bin\Debug\net8.0\Half.dll
+C:\Users\jacob\Desktop\CS50\Labs\Half\bin\Debug\net8.0\Half.pdb
+C:\Users\jacob\Desktop\CS50\Labs\Half\obj\Debug\net8.0\Half.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Labs\Half\obj\Debug\net8.0\Half.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Labs\Half\obj\Debug\net8.0\Half.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Labs\Half\obj\Debug\net8.0\Half.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Labs\Half\obj\Debug\net8.0\Half.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Labs\Half\obj\Debug\net8.0\Half.dll
+C:\Users\jacob\Desktop\CS50\Labs\Half\obj\Debug\net8.0\refint\Half.dll
+C:\Users\jacob\Desktop\CS50\Labs\Half\obj\Debug\net8.0\Half.pdb
+C:\Users\jacob\Desktop\CS50\Labs\Half\obj\Debug\net8.0\Half.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Labs\Half\obj\Debug\net8.0\ref\Half.dll
