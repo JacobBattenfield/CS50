@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\bin\Debug\net8.0\Readability.exe
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\bin\Debug\net8.0\Readability.deps.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\bin\Debug\net8.0\Readability.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\bin\Debug\net8.0\Readability.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\bin\Debug\net8.0\Readability.pdb
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\obj\Debug\net8.0\Readability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\obj\Debug\net8.0\Readability.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\obj\Debug\net8.0\Readability.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\obj\Debug\net8.0\Readability.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\obj\Debug\net8.0\Readability.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\obj\Debug\net8.0\Readability.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\obj\Debug\net8.0\refint\Readability.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\obj\Debug\net8.0\Readability.pdb
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\obj\Debug\net8.0\Readability.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Readability\obj\Debug\net8.0\ref\Readability.dll

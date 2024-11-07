@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Labs\Prime\bin\Debug\net8.0\Prime.exe
+C:\Users\jacob\Desktop\CS50\Labs\Prime\bin\Debug\net8.0\Prime.deps.json
+C:\Users\jacob\Desktop\CS50\Labs\Prime\bin\Debug\net8.0\Prime.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Labs\Prime\bin\Debug\net8.0\Prime.dll
+C:\Users\jacob\Desktop\CS50\Labs\Prime\bin\Debug\net8.0\Prime.pdb
+C:\Users\jacob\Desktop\CS50\Labs\Prime\obj\Debug\net8.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Labs\Prime\obj\Debug\net8.0\Prime.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Labs\Prime\obj\Debug\net8.0\Prime.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Labs\Prime\obj\Debug\net8.0\Prime.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Labs\Prime\obj\Debug\net8.0\Prime.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Labs\Prime\obj\Debug\net8.0\Prime.dll
+C:\Users\jacob\Desktop\CS50\Labs\Prime\obj\Debug\net8.0\refint\Prime.dll
+C:\Users\jacob\Desktop\CS50\Labs\Prime\obj\Debug\net8.0\Prime.pdb
+C:\Users\jacob\Desktop\CS50\Labs\Prime\obj\Debug\net8.0\Prime.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Labs\Prime\obj\Debug\net8.0\ref\Prime.dll

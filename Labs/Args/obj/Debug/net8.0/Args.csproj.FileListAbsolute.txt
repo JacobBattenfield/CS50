@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Labs\Args\bin\Debug\net8.0\Args.exe
+C:\Users\jacob\Desktop\CS50\Labs\Args\bin\Debug\net8.0\Args.deps.json
+C:\Users\jacob\Desktop\CS50\Labs\Args\bin\Debug\net8.0\Args.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Labs\Args\bin\Debug\net8.0\Args.dll
+C:\Users\jacob\Desktop\CS50\Labs\Args\bin\Debug\net8.0\Args.pdb
+C:\Users\jacob\Desktop\CS50\Labs\Args\obj\Debug\net8.0\Args.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Labs\Args\obj\Debug\net8.0\Args.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Labs\Args\obj\Debug\net8.0\Args.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Labs\Args\obj\Debug\net8.0\Args.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Labs\Args\obj\Debug\net8.0\Args.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Labs\Args\obj\Debug\net8.0\Args.dll
+C:\Users\jacob\Desktop\CS50\Labs\Args\obj\Debug\net8.0\refint\Args.dll
+C:\Users\jacob\Desktop\CS50\Labs\Args\obj\Debug\net8.0\Args.pdb
+C:\Users\jacob\Desktop\CS50\Labs\Args\obj\Debug\net8.0\Args.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Labs\Args\obj\Debug\net8.0\ref\Args.dll

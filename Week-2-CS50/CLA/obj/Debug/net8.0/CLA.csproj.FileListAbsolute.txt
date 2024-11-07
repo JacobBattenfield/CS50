@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\bin\Debug\net8.0\CLA.exe
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\bin\Debug\net8.0\CLA.deps.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\bin\Debug\net8.0\CLA.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\bin\Debug\net8.0\CLA.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\bin\Debug\net8.0\CLA.pdb
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\obj\Debug\net8.0\CLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\obj\Debug\net8.0\CLA.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\obj\Debug\net8.0\CLA.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\obj\Debug\net8.0\CLA.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\obj\Debug\net8.0\CLA.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\obj\Debug\net8.0\CLA.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\obj\Debug\net8.0\refint\CLA.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\obj\Debug\net8.0\CLA.pdb
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\obj\Debug\net8.0\CLA.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\CLA\obj\Debug\net8.0\ref\CLA.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Half")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1a226558b5df5e7e23df4a38b7f816aff7c3658")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4b3c36de3bfa53af66d10460a723bc4287fbe5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Half")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Half")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
