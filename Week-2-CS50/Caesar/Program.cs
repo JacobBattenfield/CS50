@@ -1,6 +1,4 @@
-﻿using System.Security.Permissions;
-
-class Program{
+﻿class Program{
     static void Main(string[] args){
         if(args.Length ==1 &&int.TryParse(args[0],out int key)&&key>0){
             Console.Write("plaintext: ");
@@ -8,7 +6,6 @@ class Program{
             string ciphertext =Ceasar(key,plaintext);
             Console.Write($"ciphertext: {ciphertext}");
         }else{
-            
             Console.WriteLine("Usage: dotnet run {key}");
         }
     }
@@ -19,6 +16,8 @@ class Program{
             if(char.IsLetter(c)){
                 char offset = char.IsUpper(c) ? 'A':'a';
                 ciphertext+=(char)((c+key-offset)%26+offset);
+            }else{
+                ciphertext+=c;
             }
         }
         return ciphertext;

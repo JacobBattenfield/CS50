@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\bin\Debug\net8.0\N0 V0W3LS.exe
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\bin\Debug\net8.0\N0 V0W3LS.deps.json
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\bin\Debug\net8.0\N0 V0W3LS.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\bin\Debug\net8.0\N0 V0W3LS.dll
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\bin\Debug\net8.0\N0 V0W3LS.pdb
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\obj\Debug\net8.0\N0 V0W3LS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\obj\Debug\net8.0\N0 V0W3LS.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\obj\Debug\net8.0\N0 V0W3LS.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\obj\Debug\net8.0\N0 V0W3LS.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\obj\Debug\net8.0\N0 V0W3LS.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\obj\Debug\net8.0\N0 V0W3LS.dll
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\obj\Debug\net8.0\refint\N0 V0W3LS.dll
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\obj\Debug\net8.0\N0 V0W3LS.pdb
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\obj\Debug\net8.0\N0 V0W3LS.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Labs\N0 V0W3LS\obj\Debug\net8.0\ref\N0 V0W3LS.dll

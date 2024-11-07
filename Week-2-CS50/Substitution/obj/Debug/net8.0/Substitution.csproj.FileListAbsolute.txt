@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\bin\Debug\net8.0\Substitution.exe
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\bin\Debug\net8.0\Substitution.deps.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\bin\Debug\net8.0\Substitution.runtimeconfig.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\bin\Debug\net8.0\Substitution.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\bin\Debug\net8.0\Substitution.pdb
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\obj\Debug\net8.0\Substitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\obj\Debug\net8.0\Substitution.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\obj\Debug\net8.0\Substitution.AssemblyInfo.cs
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\obj\Debug\net8.0\Substitution.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\obj\Debug\net8.0\Substitution.sourcelink.json
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\obj\Debug\net8.0\Substitution.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\obj\Debug\net8.0\refint\Substitution.dll
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\obj\Debug\net8.0\Substitution.pdb
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\obj\Debug\net8.0\Substitution.genruntimeconfig.cache
+C:\Users\jacob\Desktop\CS50\Week-2-CS50\Substitution\obj\Debug\net8.0\ref\Substitution.dll
