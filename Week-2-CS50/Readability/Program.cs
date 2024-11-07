@@ -7,6 +7,7 @@ class Program{
         int words = CountWords(text);
         int sentences = CountSentences(text);
         int readability = ComputeIndex(letters,words,sentences);
+        
         if(readability<1){
             Console.WriteLine($"Before Grade {1}");
         }else if(readability>=1&&readability<=16){
@@ -19,7 +20,7 @@ class Program{
         string uppertext = text.ToUpper();
         int letters = 0;
         for(int i = 0;i<uppertext.Length;i++){
-            if(uppertext[i]>=65&&uppertext[i]<=90){
+            if(uppertext[i]>='A'&&uppertext[i]<='Z'){
                 letters++;
             }
         }
